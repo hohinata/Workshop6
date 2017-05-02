@@ -2,6 +2,7 @@
 var initialData = {
   // The "user" collection. Contains all of the users in our Facebook system.
   "users": {
+    
     // This user has id "1".
     "1": {
       "_id": 1,
